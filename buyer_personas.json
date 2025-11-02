@@ -1,0 +1,50 @@
+[
+  {
+    "persona": "Administrador",
+    "descripcion": "Analítico, enfocado en control y reportes. Busca claridad financiera.",
+    "imagen": "https://drive.google.com/uc?id=1XXXXXXXXXXXXXX",
+    "tono": "Racional, preciso, enfocado."
+  },
+  {
+    "persona": "Administradora",
+    "descripcion": "Analítica, enfocada en control y reportes. Busca claridad financiera.",
+    "imagen": "https://drive.google.com/uc?id=1XXXXXXXXXXXXXX",
+    "tono": "Racional, preciso, enfocado."
+  },
+  {
+    "persona": "Contador",
+    "descripcion": "Orientado a detalle, preocupado por orden y cumplimiento fiscal.",
+    "imagen": "https://drive.google.com/uc?id=1XXXXXXXXXXXXXX",
+    "tono": "Metódico, profesional, tranquilo."
+  },
+  {
+    "persona": "Contadora",
+    "descripcion": "Orientada a detalle, preocupada por orden y cumplimiento fiscal.",
+    "imagen": "https://drive.google.com/uc?id=1XXXXXXXXXXXXXX",
+    "tono": "Metódico, profesional, tranquilo."
+  },
+  {
+    "persona": "Director",
+    "descripcion": "Líder sereno, enfocado en decisiones estratégicas.",
+    "imagen": "https://drive.google.com/uc?id=1XXXXXXXXXXXXXX",
+    "tono": "Inspirador, calmado, seguro."
+  },
+  {
+    "persona": "Directora",
+    "descripcion": "Líder serena, enfocada en decisiones estratégicas.",
+    "imagen": "https://drive.google.com/uc?id=1XXXXXXXXXXXXXX",
+    "tono": "Inspirador, calmado, seguro."
+  }
+  {
+    "persona": "Empresario",
+    "descripcion": "Visionario, busca crecimiento y optimización.",
+    "imagen": "https://drive.google.com/uc?id=1XXXXXXXXXXXXXX",
+    "tono": "Energético pero controlado, optimista."
+  },
+  {
+    "persona": "Empresaria",
+    "descripcion": "Visionaria, busca crecimiento y optimización.",
+    "imagen": "https://drive.google.com/uc?id=1XXXXXXXXXXXXXX",
+    "tono": "Energético pero controlado, optimista."
+  }
+]
