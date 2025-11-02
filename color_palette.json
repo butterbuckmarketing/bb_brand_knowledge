@@ -1,0 +1,12 @@
+{
+  "primarios": {
+    "verde_butterbuck": "#536955",
+    "amarillo_mantequilla": "#FFE293",
+    "verde_suave": "#A4B89C"
+  },
+  "neutros": {
+    "blanco": "#FFFFFF",
+    "gris_claro": "#E5E5E5",
+    "negro": "#000000"
+  }
+}
